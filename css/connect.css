@@ -1,10 +1,11 @@
 body{
-  background:#eee;
+  background:#0000ff;
 }
 
 h1{
   text-align:center;
   margin-bottom:5px;
+  color: white;
 }
 
 p.info{
@@ -18,7 +19,7 @@ p.info{
 }
 
 #game-base{
-  width:640px;  
+  width:640px;
   margin:0 auto;
   padding-top:60px;
 }
@@ -27,7 +28,7 @@ p.info{
   width:434px;
   height:374px;
   margin:0 auto;
-  background:url("http://img.sr/images/2014/01/28/base.png") 0 0 no-repeat;
+  background:url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fincompetech.com%2Fgraphpaper%2Flite%2F&psig=AOvVaw2rJqd-ATLGgjM6WZISkjzi&ust=1582305677635000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIi3-ZDS4OcCFQAAAAAdAAAAABAD") 0 0 no-repeat;
   position:relative;
 }
 
@@ -43,9 +44,15 @@ p.info{
 }
 
 .disc.red{
-  background:#d96666;
+  background:red;
 }
 
 .disc.yellow{
-  background:#ffeb79;
+  background:yellow;
+}
+a{
+  background-color: #ffffff
+}
+div.header{
+  text-align:center;
 }
